@@ -12,4 +12,5 @@
 // Création d'une class "ClassTest"
 public class ClassTest {
     
+    //Je suis Emma et j'ai récupéré le projet de Nora
 }
