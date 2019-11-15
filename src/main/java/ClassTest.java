@@ -13,4 +13,7 @@
 public class ClassTest {
     
     //Je suis Emma et j'ai récupéré le projet de Nora
+    
+    //Je créé un conflit 
+    // conflit n2
 }
